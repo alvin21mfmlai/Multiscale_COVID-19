@@ -22,13 +22,15 @@ Building upon the collated datasets, our proposed analysis for MOAC consists of 
 - This stage focuses on processing the original raw datasets (see "Raw" folder in above shared data folder) to generate processed data (in .h5 format) for the global and respective continental scales.
 - Refer to respective Jupyter Notebooks titled as "Stage A_Data processing into HDF5 data format (Global scale)" and "Stage A_Data processing into HDF5 data format (Continental scale)".
 
-##### Stage B: Predictive Modelling
-
-##### Stage C: SHAP Analysis
+##### Stages B & C: Predictive Modelling & SHAP Analysis
+- These 2 stages focus on training deep neural networks (DNNs) prediction models, followed by model validation and testing, to model and forecast the G-rate and D-rate target parameters at the respective global and continental scales.
+- Upon completing the model training phase, and with appropriate model validation/testing, the trained model will be leveraged for the required SHAP analysis to determine the most important features for modelling G-rate and D-rate parameters. 
 
 ##### Stage D: Data Visualizations
 
-##### Stage E: Near Real-Time Deployment
+##### Stage E: Optimization Analysis
+
+##### Stage F: Near Real-Time Deployment
 
 ![Proposed workflow](https://user-images.githubusercontent.com/70025024/153757221-13dec56a-a0ac-4d12-a8f1-320e38b086ca.svg)
 Fig. 1. Stages involved in proposed workflow for MOAC
