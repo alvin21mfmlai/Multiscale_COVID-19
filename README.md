@@ -41,3 +41,5 @@ Building upon the collated datasets, our proposed analysis for MOAC consists of 
 Fig. 1. Stages involved in proposed workflow for MOAC
 
 ### 4. Installation
+
+Refer to the installation folder for more details.
