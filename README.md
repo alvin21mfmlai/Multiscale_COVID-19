@@ -1,6 +1,6 @@
 # Multiscale COVID-19
 
-## Multiscale Optimization Analysis of COVID-19 (MOAC) Spatiotemporal Variations
+## Multiscale Analysis of COVID-19 (MOAC) Spatiotemporal Variations
 
 ### 1. Overview
 #### This project develops multiscale optimization engineering approach to perform the following tasks:
