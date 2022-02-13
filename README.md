@@ -29,9 +29,13 @@ Building upon the collated datasets, our proposed analysis for MOAC consists of 
 
 ##### Stage D: Data Visualizations
 
+######  IN-PROGRESS
+
 ##### Stage E: Optimization Analysis
 
 ##### Stage F: Near Real-Time Deployment
+
+######  IN-PROGRESS
 
 ![Proposed workflow](https://user-images.githubusercontent.com/70025024/153757221-13dec56a-a0ac-4d12-a8f1-320e38b086ca.svg)
 Fig. 1. Stages involved in proposed workflow for MOAC
