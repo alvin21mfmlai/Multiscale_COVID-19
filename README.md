@@ -25,6 +25,7 @@ Building upon the collated datasets, our proposed analysis for MOAC consists of 
 ##### Stages B & C: Predictive Modelling & SHAP Analysis
 - These 2 stages focus on training deep neural networks (DNNs) prediction models, followed by model validation and testing, to model and forecast the G-rate and D-rate target parameters at the respective global and continental scales.
 - Upon completing the model training phase, and with appropriate model validation/testing, the trained model will be leveraged for the required SHAP analysis to determine the most important features for modelling G-rate and D-rate parameters. 
+- - Refer to respective Jupyter Notebooks titled as "Stages A & B_Predictive Modelling & SHAP Analysis (G-rate & D-rate)".
 
 ##### Stage D: Data Visualizations
 
